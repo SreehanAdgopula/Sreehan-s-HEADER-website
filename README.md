@@ -75,6 +75,7 @@ body {font-family: Arial;}
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
 <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
+    <br>
     <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
