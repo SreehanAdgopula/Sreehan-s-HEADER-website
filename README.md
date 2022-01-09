@@ -78,12 +78,14 @@ body {font-family: Arial;}
 <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
 </div>
 
-<div id=" biolink" class="tabcontent">
-  <h3> biolink</h3>
- <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
+<div id="biolink" class="tabcontent">
+  <h3>biolink</h3>
+   <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
 <p><a href="https://bio.link/sreehanadigopula" target="iframe_a">Form</a></p> 
+  </div>
+
 </div>
 <h3> <center> Click the tabs on top to see it's descripcion </center> </h3>
 
