@@ -81,7 +81,7 @@ body {font-family: Arial;}
 <div id="Websites" class="tabcontent">
   <h3>Websites</h3>
   <p>I made 7 websites! So want to see them, ok, down there are<br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/">Sreehan's website</a></p><a class="btn" href="https://sreehanadgopula.github.io/clock/">clock </a><br> <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/">How to hack any game</a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/">Sreehan's website</a><a class="btn" href="https://sreehanadgopula.github.io/clock/">clock </a><br> <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/">How to hack any game</a><br>
   <a class="btn" href="https://sreehanadgopula.github.io/Coding/" >Coding </a><br>
   <a class="btn" href="https://sreehanadgopula.github.io/Form/">Form </a><br>
   <a class="btn" href="https://sreehanadgopula.github.io/SPACE/">Space </a><br>
