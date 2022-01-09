@@ -58,7 +58,7 @@ body {font-family: Arial;}
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
   <button class="tablinks" onclick="openCity(event, 'Contact')">Contact</button>
-  <button class="tablinks" onclick="openCity(event, 'biolink')"> biolink</button>
+  <button class="tablinks" onclick="openCity(event, 'Biolink')"> Biolink</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -78,8 +78,8 @@ body {font-family: Arial;}
 <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
 </div>
 
-<div id="biolink" class="tabcontent">
-  <h3>biolink</h3>
+<div id="Biolink" class="tabcontent">
+  <h3>Biolink</h3>
    <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
