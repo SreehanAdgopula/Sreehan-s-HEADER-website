@@ -78,7 +78,7 @@ body {font-family: Arial;}
     <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
-<p><a href="https://bio.link/sreehanadigopula" target="iframe_a">Form</a></p> 
+<p><a href="https://bio.link/sreehanadigopula" target="iframe_a">biolink</a></p> 
 </div>
 
 <h3> <center> Click the tabs on top to see it's descripcion </center> </h3>
