@@ -58,7 +58,7 @@ body {font-family: Arial;}
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
   <button class="tablinks" onclick="openCity(event, 'Contact')">Contact</button>
-  <button class="tablinks" onclick="openCity(event, 'Websites')">Webistes</button>
+  <button class="tablinks" onclick="openCity(event, 'Websites')">Websites</button>
 </div>
 
 <div id="Home" class="tabcontent">
