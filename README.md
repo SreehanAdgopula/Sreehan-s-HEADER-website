@@ -81,11 +81,11 @@ body {font-family: Arial;}
 <div id="Websites" class="tabcontent">
   <h3>Websites</h3>
   <p>I made 7 websites! So want to see them, ok, down there are<br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/"target="_blank">Sreehan's website</a></p><a class="btn" href="https://sreehanadgopula.github.io/clock/"target="_blank">clock </a><br> <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/"target="_blank">How to hack any game</a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Coding/" target="_blank">Coding </a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Form/"target="_blank">Form </a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/SPACE/"target="_blank">Space </a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Game/"target="_blank">Game </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/">Sreehan's website</a></p><a class="btn" href="https://sreehanadgopula.github.io/clock/">clock </a><br> <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/">How to hack any game</a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Coding/" >Coding </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Form/">Form </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/SPACE/">Space </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Game/">Game </a><br>
   <h2 align="center"> Thanks visiting my website, Bye and have a great day! </h2> 
 </div>
 <h3> <center> Click the tabs on top to see it's descripcion </center> </h3>
@@ -106,5 +106,4 @@ function openCity(evt, cityName) {
 }
 </script>
    
-</body>
-</html> 
+
