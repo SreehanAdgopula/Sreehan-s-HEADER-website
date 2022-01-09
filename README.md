@@ -58,7 +58,7 @@ body {font-family: Arial;}
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
   <button class="tablinks" onclick="openCity(event, 'Contact')">Contact</button>
-  <button class="tablinks" onclick="openCity(event, 'Websites')">Websites</button>
+  <button class="tablinks" onclick="openCity(event, 'My bio link')">My bio link</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -78,15 +78,12 @@ body {font-family: Arial;}
 <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
 </div>
 
-<div id="Websites" class="tabcontent">
-  <h3>Websites</h3>
-  <p>I made 7 websites! So want to see them, ok, down there are<br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/">Sreehan's website</a><a class="btn" href="https://sreehanadgopula.github.io/clock/">clock </a><br> <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/">How to hack any game</a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Coding/" >Coding </a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Form/">Form </a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/SPACE/">Space </a><br>
-  <a class="btn" href="https://sreehanadgopula.github.io/Game/">Game </a><br>
-  <h2 align="center"> Thanks visiting my website, Bye and have a great day! </h2> 
+<div id="My bio link" class="tabcontent">
+  <h3>My bio link</h3>
+ <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
+<iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
+
+<p><a href="https://bio.link/sreehanadigopula" target="iframe_a">Form</a></p> 
 </div>
 <h3> <center> Click the tabs on top to see it's descripcion </center> </h3>
 
