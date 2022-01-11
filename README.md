@@ -57,7 +57,8 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
-  <button class="tablinks" onclick="openCity(event, 'Contact and biolink ')">Contact and biolink </button>
+  <button class="tablinks" onclick="openCity(event, 'Contact')">Contact</button>
+  <button class="tablinks" onclick="openCity(event, 'Websites')">Webistes</button>
 </div>
 
 <div id="Home" class="tabcontent">
@@ -66,8 +67,8 @@ body {font-family: Arial;}
      I hope all of you are healthy, me you ask? Well I am all fine as usually! If you want to ask me some other questions, go to Contact tab and chat in a form or through e-mail. </p>
 </div>
 
-<div id="Contact and biolink " class="tabcontent">
-  <h3>Contact and Biolink </h3>
+<div id="Contact" class="tabcontent">
+  <h3>Contact</h3>
   <p>Want to chat with me through e-mail,ok then👍</p> 
   <center> <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> </center>
   Else directly chat with me in forms
@@ -75,13 +76,18 @@ body {font-family: Arial;}
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
 <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
-    <br>
-    <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
-<iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
-
-<p><a href="https://bio.link/sreehanadigopula" target="iframe_a">biolink</a></p> 
 </div>
 
+<div id="Websites" class="tabcontent">
+  <h3>Websites</h3>
+  <p>I made 7 websites! So want to see them, ok, down there are<br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/"target="_blank">Sreehan's website</a></p><a class="btn" href="https://sreehanadgopula.github.io/clock/"target="_blank">clock </a><br> <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/"target="_blank">How to hack any game</a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Coding/" target="_blank">Coding </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Form/"target="_blank">Form </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/SPACE/"target="_blank">Space </a><br>
+  <a class="btn" href="https://sreehanadgopula.github.io/Game/"target="_blank">Game </a><br>
+  <h2 align="center"> Thanks visiting my website, Bye and have a great day! </h2> 
+</div>
 <h3> <center> Click the tabs on top to see it's descripcion </center> </h3>
 
 <script>
@@ -99,5 +105,3 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>
-   
-
