@@ -59,7 +59,7 @@ body, html {
 
 <div id="Home" class="tabcontent">
   <h3>Home</h3>
-  <p>Hi, I'm SREEHAN!! Thanks for Visiting my HEADER website. I hope all of you are healthy, me you ask? Well I am all fine as usually! If you want to ask me some other questions, go to Contact tab and chat in a form or through e-mail.</p>
+  <p>Hi, I'm SREEHAN!! Thanks for Visiting my HEADER website. I hope all of you are healthy, me you ask? Well I am all fine as usually! If you want to ask me some other questions, go to down and chat in a form or through e-mail.</p>
   <center> chat with me here! </center>
             <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a><br>
             Else directly chat with me in forms
