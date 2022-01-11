@@ -61,8 +61,7 @@ body, html {
   <h3>Home</h3>
   <p>Hi, I'm SREEHAN!! Thanks for Visiting my HEADER website. I hope all of you are healthy, me you ask? Well I am all fine as usually! If you want to ask me some other questions, go to Contact tab and chat in a form or through e-mail.</p>
   <center> chat with me here! </center>
- <p> class="contact-message">Email here!</p>
-            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
+            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a><br>
             Else directly chat with me in forms
             <center> <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
               
