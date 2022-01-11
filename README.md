@@ -55,12 +55,18 @@ body, html {
 
 <button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
 <button class="tablink" onclick="openPage('Biolink', this, 'green')" id="defaultOpen">Biolink</button>
-<button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
 
 
 <div id="Home" class="tabcontent">
   <h3>Home</h3>
   <p>Hi, I'm SREEHAN!! Thanks for Visiting my HEADER website. I hope all of you are healthy, me you ask? Well I am all fine as usually! If you want to ask me some other questions, go to Contact tab and chat in a form or through e-mail.</p>
+  <center> chat with me here! </center>
+ <p> class="contact-message">Email here!</p>
+            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
+            Else directly chat with me in forms
+            <center> <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
+              
+            <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p> </center>
 </div>
 
 <div id="Biolink" class="tabcontent">
@@ -71,23 +77,7 @@ body, html {
       <a class="btn" href="https://sreehanadgopula.github.io/Sreehan-s-website/" target="_blank">Sreehan's website</a><br>
       <a class="btn" href="https://sreehanadgopula.github.io/How-to-hack-any-game/" target="_blank">How to hack any game</a><br>
       <a class="btn" href="https://sreehanadgopula.github.io/SPACE/" target="_blank">space</a><br>
-</div>
-
-<div id="Contact" class="tabcontent">
-  <h3>Contact</h3>
-  <p class="contact-message">Email here!</p>
-            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
-            Else directly chat with me in forms
-            <center> <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
-              
-            <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p> </center>
-</div>
-
-<div id="About" class="tabcontent">
-  <h3>About</h3>
-  <p>Who we are and what we do.</p>
-</div>
-
+    
 <script>
 function openPage(pageName,elmnt,color) {
   var i, tabcontent, tablinks;
